@@ -14,8 +14,8 @@ A new measuremnt can be startet by pressing the prg/boot button. The maximum ban
 
 ### Prerequisites
 
-Just open the sketch file in arduino an check the settings in tools/werkzeuge.
-You should edit the (hard codes) SSID and password in the source file before using.
+Just open the sketch file in arduino and check the settings in tools/werkzeuge.
+You should edit the (hard coded) SSID and password in the source file before using.
 The iperf server ip address has also to be adjusted.
 
 
@@ -32,7 +32,7 @@ not necessary
 
 ## Authors
 
-* Agrippus [agrippus](https://github.com/agrippus)
+* Agrippus (https://github.com/agrippus)
 
 ## License
 
